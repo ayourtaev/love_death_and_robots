@@ -1,6 +1,6 @@
 # Robot City Navigation System
 
-###About
+### About
 That's a little application which provide a navigation city system for the robots.
 General features of application are: 
 
@@ -10,7 +10,7 @@ General features of application are:
 * ability for robots to interact with the landmarks 
 * ability to see the list of the routes and landmarks which saved in the database
 
-###Dependencies
+### Dependencies
 General dependencies are:
 * python3 ( core platform )
 * sqlalchemy ( general library for working with database, sqlite in our case)
